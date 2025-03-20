@@ -1,2 +1,2 @@
 # hardware-business
-business
+https://hardware-business.vercel.app/
